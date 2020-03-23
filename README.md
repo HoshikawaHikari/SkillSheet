@@ -19,7 +19,7 @@
 		<td>生年月日</td> <td>1991/07/14</td>
 	</tr>
 	<tr>
-		<td>Twitter</td> <td> <a href="http://yokano-jp.blogspot.jp/">@h_hoshikawa</a> </td>
+		<td>Twitter</td> <td> <a href="https://twitter.com/h_hoshikawa">@h_hoshikawa</a> </td>
 	</tr>
 </table>
 
