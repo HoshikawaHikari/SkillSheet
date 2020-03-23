@@ -19,7 +19,7 @@
 		<td>生年月日</td> <td>1991/07/14</td>
 	</tr>
 	<tr>
-		<td>Twitter</td> <td> [@h_hoshikawa](https://twitter.com/h_hoshikawa) </td>
+		<td>Twitter</td> <td> <a href="http://yokano-jp.blogspot.jp/">@h_hoshikawa</a> </td>
 	</tr>
 </table>
 
@@ -35,7 +35,7 @@
 		<td>稼働日</td> <td>即日参画可能, 週1～週4 (要相談)</td>
 	</tr>
 	<tr>
-		<td>単価,報酬</td> <td>要相談</td>
+		<td>単価, 報酬</td> <td>要相談</td>
 	</tr>
 </table>
 
@@ -150,18 +150,18 @@
 
 2019/10 - 2020/01
 
-|||
-|:---:|:---|:---|
-|規模|チーム約2名, エンジニア1名|
-|使用言語|C#|
-|使用ツール等|Unity, Git, GitHub, Trello, DocBase, Slack|
+| | |
+| :---: | :--- |
+| 規模 | チーム約2名, エン ジニア1名|  
+| 使用言語 | C# |  
+| 使用ツール等 | Unity, Git, GitHub, Trello, DocBase, Slack |  
 
 #### ◆ ARアニメ配信アプリ開発
 
 2019/04 - 2019/05
 
 |||
-|:---:|:---|:---|
+|:---:|:---|
 |規模|チーム約15名, エンジニア5名|
 |使用言語|C#|
 |使用ツール等|Unity, Git, GitHub, Jenkins, Slack|
@@ -172,7 +172,7 @@
 2019/02
 
 |||
-|:---:|:---|:---|
+|:---:|:---|
 |規模|チーム約1名, エンジニア1名|
 |使用言語|C#|
 |使用ツール等|Unity, Git, BitBucket, Slack|
@@ -183,7 +183,7 @@
 2018/07 - 2018/12
 
 |||
-|:---:|:---|:---|
+|:---:|:---|
 |規模|チーム約20名, エンジニア6名|
 |使用言語|C#, PHP, Ruby|
 |使用ツール等|Unity, Git, GitLab, Trello, Slack|
@@ -194,7 +194,7 @@
 2017/10 - 2018/04
 
 |||
-|:---:|:---|:---|
+|:---:|:---|
 |規模|チーム約4名, エンジニア2名|
 |使用言語|C#|
 |使用ツール等|Unity, Git, PhotonServer, ChatWork|
@@ -205,7 +205,7 @@
 2016/01 - 2017/07
 
 |||
-|:---:|:---|:---|
+|:---:|:---|
 |規模|チーム約19名, エンジニア13名|
 |使用言語|C#, Scala|
 |使用ツール等|Unity, Git, GitLab, BitBucket, PhotonServer, BackLog, AWS, Thrift|
@@ -216,7 +216,7 @@
 2015/02 - 2015/12
 
 |||
-|:---:|:---|:---|
+|:---:|:---|
 |規模|チーム約25名, エンジニア8名|
 |使用言語|C#, Java, Objective-C, CgFX|
 |使用ツール等|Unity, Subversion, PhotonServer, Redmine, Maya|
@@ -227,7 +227,7 @@
 2012/11 - 2015/02
 
 |||
-|:---:|:---|:---|
+|:---:|:---|
 |規模|チーム約45名, エンジニア10名|
 |使用言語|C#, C/C++, Java, Objective-C|
 |使用ツール等|Unity, Subversion, TrackLightning, Mantis|
