@@ -1,13 +1,19 @@
 # SkillSheet
-スキルと業務経歴
 
+スキルや業務経歴等  
+更新日: 2020/03/24
 
-## Adout me
+---
+
 
 #### 基本情報
+
 <table>
 	<tr>
 		<td>ハンドルネーム</td> <td>星川☆光</td>
+	</tr>
+	<tr>
+		<td>職種</td> <td>フリーランス ゲーム系エンジニア</td>
 	</tr>
 	<tr>
 		<td>住居地</td> <td>埼玉県志木市</td>
@@ -19,12 +25,19 @@
 		<td>生年月日</td> <td>1991/07/14</td>
 	</tr>
 	<tr>
-		<td>Twitter</td> <td> <a href="https://twitter.com/h_hoshikawa">@h_hoshikawa</a> </td>
+		<td>連絡先</td>
+		<td>
+			Twitter: <a href="https://twitter.com/h_hoshikawa">@h_hoshikawa</a><br>
+			SkypeID: hoshikawa.
+		</td>
 	</tr>
 </table>
 
 
 #### 希望条件
+
+基本的にどの項目も相談可です。
+
 <table>
 	<tr>
 		<td>開発環境</td> <td>Windows, Unity</td>
@@ -299,3 +312,9 @@
 |規模|チーム約45名, エンジニア10名|
 |使用言語|C#, C/C++, Java, Objective-C|
 |使用ツール等|Unity, Subversion, TrackLightning, Mantis|
+
+
+ 
+---
+
+※人事、採用以外での使用、閲覧、印刷等はお控え下さい。
