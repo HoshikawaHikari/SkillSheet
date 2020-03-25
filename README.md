@@ -154,7 +154,6 @@
 |UE4|△||
 |Cocos2d|△||
 |DxLib|△||
-|OGRE|△||
 |NScripter|△||
 ||||
 |Photon Server|〇|PUN (Photon Unity Networking)|
@@ -171,8 +170,9 @@
 |Eclipse|△||
 |NetBeans|△||
 ||||
-|AWS|△|AmazonS3|
+|AWS|△|AmazonS3等|
 |Photon Server|△|SERVER|
+|MessagePack-CSharp|〇|
 |Laravel|△||
 |Apache Thrift|△||
 |jQuery|△||
