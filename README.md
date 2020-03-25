@@ -45,7 +45,7 @@
 		<td>開発環境</td> <td>Windows, Unity</td>
 	</tr>
 	<tr>
-		<td>担当業務</td> <td>クライアントサイド</td>
+		<td>担当業務</td> <td>ゲームクライアントサイド</td>
 	</tr>
 	<tr>
 		<td>契約形態</td> <td>業務委託 (請負or準委任)</td>
