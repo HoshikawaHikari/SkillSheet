@@ -162,6 +162,7 @@
 |NScripter|△||
 ||||
 |Photon Server|〇|PUN (Photon Unity Networking)|
+|Magic Onion|△||
 |NGUI|〇||
 |UniRx|〇||
 |UniTask|〇||
@@ -201,6 +202,7 @@
 |Maya|△||
 |Metasequoia|△||
 |エルフレイナ|△||
+|VRoid Studio|△||
 
 
 #### ソースコード、バージョン管理ツール等
