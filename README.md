@@ -27,7 +27,6 @@
 		<td>連絡先</td>
 		<td>
 			Twitter: <a href="https://twitter.com/h_hoshikawa">@h_hoshikawa</a><br>
-			SkypeID: hoshikawa.
 		</td>
 	</tr>
 </table>
