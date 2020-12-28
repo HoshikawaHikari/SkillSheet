@@ -134,9 +134,9 @@
 |C++|◎|2年||
 |C|〇|2年||
 |Java|〇|2年||
-|Objective-C|△|2年||
+|Objective-C|△|2年|Unityネイティブプラグインの開発に使用|
 |Scala|△|2年||
-|Ruby|△|～1年||
+|Ruby|△|～1年|ソースコード自動生成ツールの開発に使用|
 |PHP|△|～1年||
 |JavaScript|△|～1年||
 |Python|△|-||
@@ -184,7 +184,7 @@
 |WordPress|〇||
 ||||
 |DirectX 9|〇||
-|DirectX 11|△||
+|DirectX 11|〇||
 |OpenGL|△||
 
 
