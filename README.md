@@ -25,9 +25,6 @@
 		<td>住居地</td> <td>埼玉県志木市</td>
 	</tr>
 	<tr>
-		<td>年齢</td> <td>20代後半</td>
-	</tr>
-	<tr>
 		<td>連絡先</td>
 		<td>
 			Twitter: <a href="https://twitter.com/h_hoshikawa">@h_hoshikawa</a><br>
