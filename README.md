@@ -213,12 +213,13 @@
 |Git|◎||
 |Subversion, SVN|◎||
 |Jenkins|〇||
+|GitHubActions|△||
 ||||
 |GitHub|◎||
 |GitLab|〇||
 |BitBucket|〇||
 |Assembla|△||
-
+|PlasticSCM|△||
 
 #### チーム、プロジェクト管理ツール等
 ||レベル|備考|
@@ -228,6 +229,8 @@
 |Chatwork|〇||
 |Discord|◎||
 ||||
+|Notion|〇||
+|GitHubProject|〇||
 |Redmine|〇||
 |Trello|〇||
 |Backlog|〇||
@@ -250,7 +253,7 @@
 
 ↓新しい順↓
 
-#### ◆ Unity WebGL/PWAでのゲーム開発
+#### ◆ Unity WebGLでのゲーム開発
 
 2023/01 - 現在
 
