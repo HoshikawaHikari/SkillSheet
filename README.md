@@ -160,7 +160,7 @@
 ||レベル|備考|
 |:---:|:---:|---|
 |Unity|◎|Unity3 ～ Unity6|
-|UE4|△||
+|Unreal Engine|△|UE4～5|
 |Cocos2d|△||
 |DxLib|△||
 |NScripter|△||
@@ -178,10 +178,12 @@
 ||レベル|備考|
 |:---:|:---:|---|
 |Visual Studio|◎||
+|Visual Studio Code|△||
 |Eclipse|△||
 |NetBeans|△||
 ||||
 |AWS|△|AmazonS3等|
+|Docker|△||
 |Photon Server|△|SERVER|
 |MessagePack-CSharp|〇|
 |Laravel|△||
@@ -191,6 +193,7 @@
 ||||
 |DirectX 9|〇||
 |DirectX 11|〇||
+|DirectX 12|△||
 |OpenGL|△||
 
 
